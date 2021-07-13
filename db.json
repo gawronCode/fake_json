@@ -4,6 +4,9 @@
             "Status": 1,
             "ClientGetResult": [
                 {
+                    "xxx": {
+                        "aaa":"123"
+                    }
                     "ClientCode": "086677",
                     "NameShort": "WYPASEK MARIUSZ",
                     "NameLong": "WYPASEK MARIUSZ",
